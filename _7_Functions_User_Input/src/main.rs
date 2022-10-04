@@ -66,5 +66,5 @@ fn return_input(name :&str) -> &str {
 
 // Functions with multiple Output
 fn multiple_output(name :&str,age :i32) -> (&str, i32) {
-    ("Deo", 2)
+    ("DeoSaju", 2)
 }   
